@@ -35,3 +35,10 @@ back-end : java, spring, mybatis /
 7. 주문상태 변경
 8. 책 데이터별 판매 실적(AJAX 활용하여 파이차트 / 바차트)
 9. 쇼핑몰 메인 페이지
+
+
+
+-------------------------------
+데이터베이스
+
+https://github.com/InkyumKim/ebookDB
