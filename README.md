@@ -1,13 +1,16 @@
 # E-Book
-
-
 e-book 쇼핑몰 
+개발인원 : 3명 / 
+개발기간 : 1달 / 
+내가 맡은 역할 : 관리자 페이지 
 
-운영체제 : Windows
-개발 도구 : 이클립스, oracle database
-front-end : HTML, css, JS
-back-end : java, spring, mybatis
-서버 : apache tomcat
+
+
+운영체제 : Windows / 
+개발 도구 : 이클립스, oracle database / 
+front-end : HTML, css, JS / 
+back-end : java, spring, mybatis / 
+서버 : apache tomcat / 
 그 외 : Github
 
 
