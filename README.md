@@ -3,6 +3,13 @@
 
 e-book 쇼핑몰 
 
+운영체제 : Windows
+개발 도구 : 이클립스, oracle database
+front-end : HTML, css, JS
+back-end : java, spring, mybatis
+서버 : apache tomcat
+그 외 : Github
+
 
 @@메인 페이지@@ -> 김형주/김민진
 1. 로그인 / 회원가입 (유효성 검사)
@@ -10,7 +17,6 @@ e-book 쇼핑몰
 3. 마이페이지 ( 위시리스트 / 장바구니 / 내 서재(구매목록) / 회원정보 변경
 4. 리뷰 작성 및 삭제(별점)
 5. 게시판 ( 공지사항 / q&a)
-
 
 
 
