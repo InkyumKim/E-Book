@@ -42,7 +42,7 @@ back-end : java, spring, mybatis
    ![책삭제](https://user-images.githubusercontent.com/98381560/162413472-36167121-8537-44e4-a7e7-6a6d345ecee6.gif)
   3) e-book 데이터 페이징 처리 ![페이징](https://user-images.githubusercontent.com/98381560/162413578-a40a9c7d-3975-4757-be5c-4013f3f5e23a.gif)
   4) q&a 답변하기 
-   ![qna답변](https://user-images.githubusercontent.com/98381560/162413609-3e67fc92-6b68-44fd-b7e4-27ccea11c8f3.gif)
+   <img src="https://user-images.githubusercontent.com/98381560/162413609-3e67fc92-6b68-44fd-b7e4-27ccea11c8f3.gif width="200" height="400"/>
   5) 공지사항 (CRUD) -> 등록 삭제 수정시 유효성 검사
   6) 회원 조회  ![회원관리](https://user-images.githubusercontent.com/98381560/162413602-ad625178-4954-497b-aad9-6ff92121526b.gif)
   7) 주문상태 변경
