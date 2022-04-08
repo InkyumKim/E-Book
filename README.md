@@ -49,6 +49,6 @@ back-end : java, spring, mybatis
 
 ●  데이터베이스    -> 김인겸(내가 구현한 부분)
 https://github.com/InkyumKim/ebookDB
-
+![db](https://user-images.githubusercontent.com/98381560/162378855-b72c3b91-b74a-4b4e-8135-400334d2319c.PNG)
 ●  프로젝트 동작
 
