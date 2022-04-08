@@ -47,7 +47,6 @@ back-end : java, spring, mybatis
   6) 회원 조회  ![회원관리](https://user-images.githubusercontent.com/98381560/162413602-ad625178-4954-497b-aad9-6ff92121526b.gif)
   7) 주문상태 변경
   8) 책 데이터별 판매 실적(AJAX 활용하여 파이차트 / 바차트) ![판매실적](https://user-images.githubusercontent.com/98381560/162413567-1107403d-3452-4bae-af86-c346cc793636.gif)
-  9) 쇼핑몰 메인 페이지
 
 
 ●  데이터베이스    -> 김인겸(내가 구현한 부분)
