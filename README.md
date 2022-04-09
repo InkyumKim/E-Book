@@ -25,7 +25,7 @@ back-end : java, spring, mybatis
 
 # 주요 기능
 ●  사용자 페이지-> 김형주/김민진(다른 팀원들)
-  1) 로그인 / 회원가입 (유효성 검사)![회원가입로그인](https://user-images.githubusercontent.com/98381560/162413585-bbc13ab4-1271-4f78-b57a-514057e9bd3e.gif) <br>
+  1) 로그인 / 회원가입 (유효성 검사)![회원가입로그인](https://user-images.githubusercontent.com/98381560/162413585-bbc13ab4-1271-4f78-b57a-514057e9bd3e.gif) <hr>
   2) 책 카테고리별 조회 / 베스트 도서 조회 / 신작 도서 조회 / 무료 도서 조회
   ![책상세보기](https://user-images.githubusercontent.com/98381560/162413493-a7f9e5a8-f50d-4e92-9358-a570622462ec.gif)
   3) 마이페이지 ( 위시리스트 / 장바구니 / 내 서재(구매목록) / 회원정보 변경
